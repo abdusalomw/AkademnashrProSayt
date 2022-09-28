@@ -123,16 +123,17 @@ a{
   
 }
 /* hero section */
-.hero{
-  color: white;
-  background-color: #252420;
-  margin-left: auto;
-  margin-right: auto;
+.hero__main{
   max-width: 1100%;
   width: 100%;
+  background-color: #252420;
+}
+.hero{
+  color: white;
+  margin-left: auto;
+  margin-right: auto;
   border-radius: 12px;
   padding-top: 40px;
-  
   background: #252420
 }
 .footer-logo{
